@@ -24,4 +24,4 @@ contains the following packages:
 * webpack?
 * api manager
 * unneeded packages --> delete
-* router 
+* router example with multiple components
