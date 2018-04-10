@@ -1,9 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './containers/app.js';
-import {BrowserRouter} from 'react-router-dom';
-import './index.css';
 import Routes from './routes';
+import {BrowserRouter} from 'react-router-dom';
+
+import './index.css';
+import Bootstrap from '../node_modules/bootstrap/dist/css/bootstrap.css';
+
 
 
 function startApp() {
