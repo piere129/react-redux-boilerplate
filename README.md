@@ -18,9 +18,10 @@ contains the following packages:
 * history
 * redux-devtools-extension
 
-## todo:
+## Todo:
 
 * bootstrap
 * webpack?
 * api manager
 * unneeded packages --> delete
+* router 
