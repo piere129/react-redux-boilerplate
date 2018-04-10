@@ -4,7 +4,7 @@
 
 A boilerplate made to make creating a react app easier than ever. Just npm install and npm start it. 
 
-## Packages
+## Packages:
 
 contains the following packages:
 
@@ -18,4 +18,9 @@ contains the following packages:
 * history
 * redux-devtools-extension
 
+## todo:
 
+* bootstrap
+* webpack?
+* api manager
+* unneeded packages --> delete
