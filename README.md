@@ -17,10 +17,11 @@ contains the following packages:
 * redux-thunk
 * history
 * redux-devtools-extension
+* bootstrap
+* react-bootstrap
 
 ## Todo:
 
-* bootstrap
 * webpack?
 * api manager
 * unneeded packages --> delete
